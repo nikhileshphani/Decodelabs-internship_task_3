@@ -1,6 +1,6 @@
 # 🧠 Task 3: The Knowledge Analyst — RAG Legal Document Intelligence System
 
-> **DecodeLabs Generative AI Internship | Batch 2026**  
+> **DecodeLabs Generative AI Internship   
 > Simulating Retrieval-Augmented Generation (RAG) for Legal Document Analysis
 
 ---
@@ -13,7 +13,7 @@ The goal: prove that an AI can act as a legal analyst that never hallucinates, a
 
 ---
 
-## 🎯 Task Requirements (from DecodeLabs)
+## 🎯 Task Requirements 
 
 | Requirement | Status |
 |---|---|
@@ -157,26 +157,11 @@ Every single row in every table **must include a source citation**.
 
 | Tool | Purpose |
 |---|---|
-| Claude (Anthropic) | Primary AI model for document analysis |
+| Claude Projects (Anthropic) | Primary AI model for document analysis |
 | Legal Case PDF | Source document for RAG simulation |
 | Microsoft Word | Final output format (.docx) |
 | Prompt Engineering | Two-layer system prompt + user prompt design |
 
 ---
 
-## 📋 Qualification
-
-This project contributes toward completing **Task 3 of 5** required for the DecodeLabs Generative AI Internship badge.  
-To earn the certificate, at least **3 out of 5 tasks** must be built and deployed.
-
----
-
-## 📬 Contact
-
-**Organization**: DecodeLabs  
-**Email**: decodelabs.tech@gmail.com  
-**Website**: [www.decodelabs.tech](https://www.decodelabs.tech)
-
----
-
-*DecodeLabs Generative AI Internship | Batch 2026 | Task 3: The Knowledge Analyst*
+*DecodeLabs Generative AI Internship | Task 3: The Knowledge Analyst*
