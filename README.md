@@ -30,14 +30,14 @@ The goal: prove that an AI can act as a legal analyst that never hallucinates, a
 task-3-rag-knowledge-analyst/
 │
 ├── prompts/
-│   ├── system_prompt.png          # System prompt screenshot (RAG persona + citation rules)
-│   └── user_prompt.png            # User prompt screenshot (extraction task)
+│   ├── system prompt.png          # System prompt screenshot (RAG persona + citation rules)
+│   └── user prompt.png            # User prompt screenshot (extraction task)
 │
 ├── source_document/
-│   └── legal_ad_ex_2.pdf          # Source legal document (American Exchange Bank v. Topp)
+│   └── Source Legal Document.pdf          # Source legal document (American Exchange Bank v. Topp)
 │
 ├── output/
-│   └── American_Exchange_Bank_v_Topp_Legal_Analysis.docx   # AI-generated summary dashboard
+│   └── AI Summary Dashboard.docx   # AI-generated summary dashboard
 │
 ├── docs/
 │   └── Task3_RAG_Project_Documentation.docx   # Full project documentation
